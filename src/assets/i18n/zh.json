@@ -27,7 +27,9 @@
         "signUp":"注册"
     },
     "userLogin":{
-        "userLogin":"用户登录"
+        "userLogin":"用户登录",
+        "name":"用户名",
+      "password":"密码"
     },
     "search": "搜索",
     "submit": "提交",

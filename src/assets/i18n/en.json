@@ -27,7 +27,10 @@
         "signUp":"SignUp"
     },
     "userLogin":{
-        "userLogin":"User Login"
+        "userLogin":"User Login",
+        "name":"user name",
+        "password":"password"
+
     },
     "search":"search",
     "submit":"Submit",

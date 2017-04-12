@@ -12,10 +12,12 @@ export const appRoutes=[
 		path:'',
 		redirectTo:'posts',
 		pathMatch:'full'
-	},{
+	},
+	{
 		path:"echart",
 		component:ChartComponent
-	},{
+	},
+	{
 		path:'home',
 		loadChildren:'./home/home.module#HomeModule'
 	},{
